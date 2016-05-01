@@ -1,0 +1,15 @@
+{
+  "name": "videonic",
+  "version": "1.0.0",
+  "description": "Video Catalogue Manager",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alwin Tom <alwintom@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3"
+  }
+}
